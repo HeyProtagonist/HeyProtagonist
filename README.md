@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align="center"> Hi, I'm Anguram!</h2>
 
-<!--
-**retr0c0de/retr0c0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://anguram.dev/">Website</a> •
+  <a href="mailto:ThisIsAnguram@gmail.com">Mail</a> •
+  <a href="https://twitter.com/HeyProtagonist">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  I'm a Senior Software Engineer at <a href="https://www.infovision.com/">Infovision</a>, passionate about crafting front-end web experiences.
+</p>
+
+<p>
+  I enjoy building tools using TypeScript and JavaScript, and I take pride in creating visually appealing user interfaces that delight users.
+</p>
