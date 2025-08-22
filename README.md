@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Anguram!</h2>
+<h2 align="center"> Hello, I'm Anguram</h2>
 
 <p align="center">
   <a href="https://anguram.dev/">Website</a> •
@@ -9,7 +9,7 @@
 <hr>
 
 <p>
-  I'm a Senior Software Engineer at <a href="https://www.infovision.com/">Infovision</a>, passionate about crafting front-end web experiences.
+  I'm a Senior Software Engineer at <a href="https://www.infovision.com/">Infovision</a>, passionate about crafting full-stack web experiences.
 </p>
 
 <p>
