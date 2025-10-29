@@ -9,9 +9,9 @@
 <hr>
 
 <p>
-  I'm a Senior Software Engineer at <a href="https://www.infovision.com/">Infovision</a>, passionate about crafting full-stack web experiences.
+  I'm a Technical Specialist at <a href="https://www.infovision.com/">Infovision</a>, passionate about crafting full-stack web experiences.
 </p>
 
 <p>
-  I enjoy building tools using TypeScript and JavaScript, and I take pride in creating visually appealing user interfaces that delight users.
+  I enjoy building tools using TypeScript, JavaScript and little homelabs, gaming, and I take pride in creating visually appealing user interfaces that delight users.
 </p>
